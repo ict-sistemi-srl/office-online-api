@@ -1,0 +1,34 @@
+.logo {
+    z-index: 1040;
+    width: 125px;
+    height: 39px;
+    position: absolute;
+    top: 15px;
+    left: 0;
+    margin-left: 6px;
+    background-image: url('images/toolbar-bg.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 1320px) {
+    .logo {
+        max-width: 30px !important;
+    }
+
+    #tb_toolbar-up_item_left {
+	padding-left: 35px !important;
+    }
+
+    #main-menu {
+	padding-left: 35px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .logo {
+	background-size: 100px;
+	top: 0;
+    }
+}
