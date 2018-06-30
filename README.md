@@ -1,0 +1,2 @@
+# office-online-api
+A software based on Libre office online useful for editing .docx and .odt files in the browser. OfficeOnlineAPI website (https://www.officeonlineapi.com) contains the docs to integrate this functionality The software gives IT companies and developers the possibility to integrate the functionality of editing of docx and odt files by:  opening a file that resides on their server editing it in the browser storing it back on the server
