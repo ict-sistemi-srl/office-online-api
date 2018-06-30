@@ -1,4 +1,4 @@
-# office-online-api
+# What is OfficeOnlineAPI?
 OfficeOnlineAPI is a software based on Libre office online useful for editing .docx and .odt files in the browser. OfficeOnlineAPI website (https://www.officeonlineapi.com) contains the docs to integrate this functionality. This software gives IT companies and developers the possibility to:  
 1) Open a file that resides on their server
 2) Edit it in the browser
