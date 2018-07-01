@@ -24,3 +24,5 @@ We also thought that:
 2) A company/developer that would like to solve this problem needs to create the infrastructure, improve the libre office online software, create a generalized mechanism to deal with file management and interaction with libre office.
 
 Being this project at the early stages of its life, we would love to hear from developers and companies their thoughts.
+
+The code of this repository is the modified open source software.
